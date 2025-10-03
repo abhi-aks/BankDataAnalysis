@@ -16,4 +16,4 @@ BRId is Banking Relationship, IAId is Investment Advisor and GenderID is Gender.
 Alternatively, visualisation can also be achieved by directly loading the excel into Power BI and performing transformation as required. 
 
 # Result 
-![Demo](assets/ScreenRecordingDashboard.gif)
+![Demo](assets/dashboardrecording.gif)
